@@ -1,2 +1,2 @@
-# Party-Quest-0
-CC- Party Quest 0 
+# Hellow World! 
+Our first CC party quest!
